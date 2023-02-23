@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pavandeepak
-- 👀 I’m interested in deep learning and computer vision.
-- 🌱 I’m currently learning computer vision.
+- 👀 I’m interested in Data Science, Deep Learning and Machine Learning.
 - 💞️ I’m looking to collaborate on deep learning open source projects.
 - 📫 How to reach me email: pavancena2000@gmail.com
 
